@@ -1,5 +1,5 @@
 # SOBRE MI:
-Mi nombre es Gonzalo Bucca<br>Tengo 22 años <br>Actualmente estudio en la Universidad Tecnológica Nacional FRSR <br>Estudiante de la Tecnicatura universitaria en programación
+Mi nombre es Gonzalo Bucca<br>Tengo 22 años <br>Estudiante de la Tecnicatura universitaria en programación <br>Actualmente estudio en la Universidad Tecnológica Nacional FRSR
 
 
 ## 🌐 Socials:
